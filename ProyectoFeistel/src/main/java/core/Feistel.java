@@ -2,6 +2,7 @@ package core;
 
 /**
 @autor: Kevin Palacios
+Si usas el c&oacute;digo, por favor asegurate de dar el cr&eacute;dito correspondiente
 */
 public class Feistel {
 
