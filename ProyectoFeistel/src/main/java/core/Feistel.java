@@ -1,5 +1,8 @@
 package core;
 
+/**
+@autor: Kevin Palacios
+*/
 public class Feistel {
 
 	/**
