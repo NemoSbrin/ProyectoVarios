@@ -1,3 +1,3 @@
 # ProyectoVarios
-- English.md
-- Español.md
+- [English](English.md)
+- [Español](Español.md)
