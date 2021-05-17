@@ -1,3 +1,3 @@
 # ProyectoVarios
-- English
-- Español
+- English.md
+- Español.md
