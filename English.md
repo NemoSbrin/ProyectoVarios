@@ -6,3 +6,5 @@ The current projects are:
 The next projects are:
  - :o: Pomodoro
  - :heavy_multiplication_x: Identify text in images 
+
+[:house:](README.md)
